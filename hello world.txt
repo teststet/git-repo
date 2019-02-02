@@ -1,3 +1,4 @@
 print "Hi World"
 print "Hi Eline"
 print "Hi hi Baby"
+print "Hello my dear friend"
