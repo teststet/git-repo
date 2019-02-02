@@ -1,5 +1,5 @@
-print "Hi World"
-print "Hi Eline"
-print "Hi hi Baby"
-print "Hello my dear friend"
-print "Glad to see you"
+print "Hi World";
+print "Hi Eline";
+print "Hi hi Baby";
+print "Hello my dear friend";
+print "Glad to see you";
